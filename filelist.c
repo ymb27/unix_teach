@@ -1,6 +1,5 @@
-#include "./apue.3e/include/apue.h"
+#include  "apue.h"
 #include <dirent.h>
-#include <errno.h>
 
 int
 main(int argc, char *argv[]){

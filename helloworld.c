@@ -1,4 +1,4 @@
-#include "./apue.3e/include/apue.h"
+#include "apue.h"
 
 
 int
